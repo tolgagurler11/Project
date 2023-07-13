@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<Algorithm ActionTag="None" AlgorithmClassName="Country" AlgorithmName="CreateCountry" AlgorithmType="4" BaseType="1" GUITag="None" ProcessTag="" ReturnType="4" ReturnValueClassName="">
+<Description/>
+<InputValues/>
+<Nodes>
+<AlgorithmNode AN_AlgorithmName="" AN_ClassName="" AlgorithmClassName="Country" AlgorithmName="CreateCountry" B="46" Code="BaseObject" DrawUniqueID="0" L="15" NodeIndex="0" PrevHeight="31" R="175" ShowDescription="1" ShowLPDescriptions="1" T="15" TraceValue="0">
+<Description/>
+<TraceExpression/>
+<TraceChannel/>
+<UserParameters>
+<![CDATA[<USER_PARAMETERS><Parameter Code="Group" ClassName="NODE"><Expression Seq="0" Status=""></Expression></Parameter></USER_PARAMETERS>]]>            </UserParameters>
+</AlgorithmNode>
+<AlgorithmNode AN_AlgorithmName="" AN_ClassName="" AlgorithmClassName="Country" AlgorithmName="CreateCountry" B="46" Code="BaseObject" DrawUniqueID="0" L="15" NodeIndex="0" PrevHeight="31" R="175" ShowDescription="1" ShowLPDescriptions="1" T="15" TraceValue="0">
+<Description/>
+<TraceExpression/>
+<TraceChannel/>
+<UserParameters>
+<![CDATA[<USER_PARAMETERS><Parameter Code="Group" ClassName="NODE"><Expression Seq="0" Status=""></Expression></Parameter></USER_PARAMETERS>]]>            </UserParameters>
+</AlgorithmNode>
+<AlgorithmNode AN_AlgorithmName="" AN_ClassName="" AlgorithmClassName="Country" AlgorithmName="CreateCountry" B="46" Code="BaseObject" DrawUniqueID="0" L="15" NodeIndex="0" PrevHeight="31" R="175" ShowDescription="1" ShowLPDescriptions="1" T="15" TraceValue="0">
+<Description/>
+<TraceExpression/>
+<TraceChannel/>
+<UserParameters>
+<![CDATA[<USER_PARAMETERS><Parameter Code="Group" ClassName="NODE"><Expression Seq="0" Status=""></Expression></Parameter></USER_PARAMETERS>]]>            </UserParameters>
+</AlgorithmNode>
+
+ 
+
+    </Nodes>
+<LinkPoints>
+</LinkPoints>
+<Relations>
+</Relations>
+</Algorithm>
